@@ -1,0 +1,16 @@
+p{
+    font-size: 24px;
+    color: darkslategrey;
+}
+
+span{
+    font-size: 24px;
+    color: darkslategray;
+    text-decoration: underline;
+}
+
+h2 span{
+    text-transform: capitalize;
+    text-decoration: none;
+    color: black;
+}
