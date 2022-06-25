@@ -34,3 +34,7 @@ document.write(`
 `)
 console.log("New password Created")
 console.log(`Hello ${first_name} ${last_name}`)
+
+
+//class two//
+
